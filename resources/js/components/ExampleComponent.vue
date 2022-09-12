@@ -10,6 +10,9 @@
                 <p>
                     {{char.status}}
                 </p>
+                <p>
+                    {{char.location}}
+                </p>
             </div>
         </div>
 
